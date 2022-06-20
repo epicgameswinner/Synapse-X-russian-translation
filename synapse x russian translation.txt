@@ -38,7 +38,7 @@
         "page-settings": "Настройки",
 
         "settings-category-editor": "Редактор",
-        "settings-category-interface": "интерфейс и макет",
+        "settings-category-interface": "Интерфейс и макет",
         "settings-category-console": "Консоль и логгер",
         "settings-category-explorer": "Исследователь",
         "settings-category-integrations": "Интеграция",
@@ -73,7 +73,7 @@
         "settings-lualsp-desc": "Включает умний автодополнительний инструмент. Надо перезагрузить шоб включить.",
         "settings-tablength": "Длина вкладок",
         "settings-tablength-desc": "Меняет количество вкладок вставлених для отступа.",
-        "settings-fsize": "Размер шривта",
+        "settings-fsize": "Размер шрифта",
         "settings-fsize-desc": "Меняет размер шрифта редактора.",
         "settings-tablimit": "Лимит количества вкладок",
         "settings-tablimit-desc": "Лимитировает доступное количество вкладок в редакторе. 0 = бесконечно.",
